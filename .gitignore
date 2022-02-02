@@ -2,3 +2,5 @@
 results/
 log_*
 graphs/
+*.xml
+*.iml
